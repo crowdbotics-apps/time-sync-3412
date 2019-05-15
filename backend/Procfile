@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT time_sync_3412.wsgi:application

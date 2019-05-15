@@ -1,0 +1,3 @@
+rootProject.name = 'time_sync_3412'
+
+include ':app'
